@@ -5,7 +5,7 @@ que somente realizei testes utilizando o emulador do Android Studio, pretendo fu
 
 - Demonstração
 
-- Adicionando dependências
+<h2> Adicionando dependências </h2>
 
 Utilizando yarn -> yarn install, ou simplesmente yarn.
 
