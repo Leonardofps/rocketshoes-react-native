@@ -4,6 +4,7 @@ Projeto realizado em conjunto ao bootcamp da RocketSeat, com a finalidade de des
 que somente realizei testes utilizando o emulador do Android Studio, pretendo futuramente realizar testes em Ios.
 
 - Demonstração
+<img src="src/assets/demo/rocketoshoes-reactnative.gif" align="center" height="600" width="280" > 
 
 <h2> Adicionando dependências </h2>
 
