@@ -28,39 +28,39 @@
   "products": [
     {
       "id": 1,
-      "title": "Yeezy Boost 350 V2 Beluga 2.0",
-      "price": 2200.0,
-      "image": "https://stockx-360.imgix.net/Adidas-Yeezy-Boost-350-V2-Beluga-2pt0/Images/Adidas-Yeezy-Boost-350-V2-Beluga-2pt0/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1538080256&w=1000"
+      "title": "Tênis de Caminhada Leve Confortável",
+      "price": 179.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
     },
     {
       "id": 2,
-      "title": "Nike Kyrie 5 SpongeBob",
-      "price": 600.0,
-      "image": "https://stockx-360.imgix.net/Nike-Kyrie-5-Spongebob/Images/Nike-Kyrie-5-Spongebob/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1564168668&w=1000"
+      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+      "price": 139.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
     },
     {
       "id": 3,
-      "title": "Nike Air Max 97 Neon Seoul",
-      "price": 800.0,
-      "image": "https://stockx-360.imgix.net/Nike-Air-Max-97-Neon-Seoul/Images/Nike-Air-Max-97-Neon-Seoul/Lv2/img01.jpg"
+      "title": "Tênis Adidas Duramo Lite 2.0",
+      "price": 219.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
     },
     {
       "id": 5,
-      "title": "Nike Air Force 1 x Travis Scott",
-      "price": 6000.0,
-      "image": "https://stockx-360.imgix.net/Nike-Air-Force-1-Low-Travis-Scott-Sail/Images/Nike-Air-Force-1-Low-Travis-Scott-Sail/Lv2/img01.jpg"
+      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+      "price": 139.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
     },
     {
       "id": 6,
-      "title": "Nike x OFF WHITE Air Force 1 Volt",
-      "price": 4000.0,
-      "image": "https://stockx-360.imgix.net/Nike-Air-Force-1-Low-Off-White-Volt/Images/Nike-Air-Force-1-Low-Off-White-Volt/Lv2/img01.jpg"
+      "title": "Tênis Adidas Duramo Lite 2.0",
+      "price": 219.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
     },
     {
       "id": 4,
-      "title": "Yeezy Boost 700 Magnet",
-      "price": 2000.0,
-      "image": "https://stockx-360.imgix.net/adidas-Yeezy-Boost-700-Magnet/Images/adidas-Yeezy-Boost-700-Magnet/Lv2/img01.jpg"
+      "title": "Tênis de Caminhada Leve Confortável",
+      "price": 179.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
     }
   ]
 }
